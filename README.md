@@ -165,6 +165,4 @@ This work showcases the ability to convert raw transactional data into actionabl
 ## Authors
 - [Atharv Kulkarni](https://github.com/Kulkarni-ui/)
 - [Hrithik Rayapati](https://github.com/MRG-Hazmatz)
- **2025**
-
 
