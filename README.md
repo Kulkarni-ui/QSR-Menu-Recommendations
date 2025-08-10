@@ -165,6 +165,6 @@ This work showcases the ability to convert raw transactional data into actionabl
 ## 11. Authors
 **Atharv Kulkarni**  
 **Hrithik Rayapati**  
-2025
+**2025**
 
 
