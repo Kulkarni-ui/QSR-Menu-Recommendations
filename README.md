@@ -2,8 +2,7 @@
 This project addresses the WWT Unstop Round 2 challenge of predicting a missing item in a customer’s partial cart and recommending the top 3 likely items, evaluated using **Recall@3**. 
 ## Executive Summary
 
-This project addresses the WWT Unstop Round 2 challenge of predicting a missing item in a customer’s partial cart and recommending the top 3 likely items, evaluated using **Recall@3**.  
-Using **historical transaction data**, we applied a **co-occurrence-based recommendation algorithm** with a popularity fallback to ensure robust suggestions even for sparse cases.The solution achieved a **Recall@3 score of 0.327**, meaning ~33% of true missing items appeared in the top 3 recommendations.The approach is **fully reproducible**, well-structured, and ready for scaling with personalization, seasonal adjustments, and hybrid recommendation models in future iterations.This documentation provides a complete breakdown of **dataset details, methodology, codebase structure, evaluation, and future work**.
+This project addresses the WWT Unstop Round 2 challenge of predicting a missing item in a customer’s partial cart and recommending the top 3 likely items, evaluated using **Recall@3**.Using **historical transaction data**, we applied a **co-occurrence-based recommendation algorithm** with a popularity fallback to ensure robust suggestions even for sparse cases.The solution achieved a **Recall@3 score of 0.327**, meaning ~33% of true missing items appeared in the top 3 recommendations.The approach is **fully reproducible**, well-structured, and ready for scaling with personalization, seasonal adjustments, and hybrid recommendation models in future iterations.This documentation provides a complete breakdown of **dataset details, methodology, codebase structure, evaluation, and future work**.
 
 ## 1. Overview
 This project optimizes **menu recommendations** and **customer segmentation** for a Quick Service Restaurant (QSR) chain.  
