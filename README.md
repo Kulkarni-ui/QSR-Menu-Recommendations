@@ -162,9 +162,9 @@ The approach not only meets the competition’s requirements but also establishe
 
 This work showcases the ability to convert raw transactional data into actionable business insights, ultimately contributing to enhanced customer experience, higher order value, and data-driven decision-making in the QSR domain. It sets a strong foundation for further improvements and real-world deployment.
 
-## 11. Authors
-**Atharv Kulkarni**  
-**Hrithik Rayapati**  
-**2025**
+## Authors
+- [Atharv Kulkarni](https://github.com/yourusername)
+- [Hrithik Rayapati](https://github.com/coauthorusername)
+ **2025**
 
 
